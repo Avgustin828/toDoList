@@ -63,7 +63,7 @@
 ```
 │   package-lock.json
 │   package.json
-│   README0.1.md # Документация
+│   README.md # Документация
 │
 ├───public
 │       index.html   # шаблоны
